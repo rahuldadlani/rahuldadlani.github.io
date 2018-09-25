@@ -1,7 +1,16 @@
-.hello {
-    color: #0EBFE9;
+.title {
+    color: #010000;
     font-size: 18px;
     text-align: center;
     margin-bottom: 10px;
     font-weight: 300;
+}
+
+.education {
+    color: #0EBFE9;
+    font-size: 55px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 300;
+
 }
