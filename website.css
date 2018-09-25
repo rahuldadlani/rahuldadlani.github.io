@@ -1,3 +1,7 @@
 .hello {
     color: #0EBFE9;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 300;
 }
